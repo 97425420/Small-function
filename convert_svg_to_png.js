@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * SVG to PNG 批量转换脚本 (Node.js版本)
+ * SVG to PNG 批量转换脚本 (Node.js版本) 
  * 将SVG文件转换为PNG格式，生成两种颜色版本：
  * 1. 默认颜色 #999999
  * 2. 激活状态颜色 #667eea (文件名加-active后缀)
